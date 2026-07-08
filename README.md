@@ -1,5 +1,5 @@
 # STK11C88-for-GB
-Patches for enabling nvSRAM STK11C88 SoftStore function on GB applications.
+Patches for enabling nvSRAM STK11C88 SoftStore function on Gameboy platform workable applications
 
 ## Disclaimer
 This project is for educational and hardware compatibility research purposes only.
